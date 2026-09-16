@@ -1,0 +1,10 @@
+Package: com.searchglass-ro...
+Name: Search Glass
+Version: 1.0.0
+Architecture: iphoneos-arm iphoneos-arm64
+Description: Benim ilk tweak veya uygulamam.
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.searchglass-ro...
+Size: 1000
