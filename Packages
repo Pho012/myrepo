@@ -31,6 +31,7 @@ Author: Pho012
 Section: Tweaks
 Filename: com.liquidass_0.1.1-2b_iphoneos-arm64.deb
 Size: 3718840
+Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0150.jpeg
 
 Package: com.pho012.visibleisland-rootless
 Name: Visibleİsland
@@ -42,4 +43,3 @@ Autuor: Pho012
 Section: Tweaks
 Filename: com.pho012.visibleisland_2.0_iphoneos-arm64.deb
 Size: 28364
-Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0150.jpeg
