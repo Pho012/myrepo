@@ -23,7 +23,7 @@ Size: 1915740
 
 Package: com.liquidas-rootless
 Name: LiquidGlass
-Version: 
+Version: 0.1.1-2b
 Architecture: iphoneos-arm64
 Description: Amazing effects
 Mainteiner: Pho012
