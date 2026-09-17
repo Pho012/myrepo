@@ -68,3 +68,15 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.privacydisplay_1.0.0.4_iphoneos-arm64.deb
 Size:23436
+
+Package: com.pho012.searchglass
+Name: SearchGlass
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: İos 27 arama çubuğu
+Mainteiner: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.searchglass_1.0.0_iphoneos-arm64.deb
+Size: 14720
+Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0045.jpeg
