@@ -69,13 +69,14 @@ Section: Tweaks
 Filename: com.pho012.privacydisplay_1.0.0.4_iphoneos-arm64.deb
 Size:23436
 
-Package: com.pho012.akemi.appsyncunified
-Name: Appsyncunfied
-Version: 116.0
+Package: com.pho012.palera1n
+Name: Palera1n
+Version: 2.4
 Architecture: iphoneos-arm64
-Description: fake sign
+Description: Palera1n
 Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
-Filename: com.pho012.akemi.appsyncunified_116.0_iphoneos-arm64.deb
-Size: 35560
+Filename: com.pho012.palera1n_2.4_iphoneos-arm64.deb
+Size: 3966868
+
