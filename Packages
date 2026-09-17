@@ -10,12 +10,13 @@ Filename: com.searchglass-rootless_1.0.0_iphoneos-arm64.deb
 Size: 14684
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0045.jpeg
 
-Package:com.opa334.trollstorehelper-rootless
+Package: com.opa334.trollstorehelper-rootless
 Name: TrollstoreHelper
 Version: 2.1.1
-Architecture:iphoneos-arm64
+Architecture: iphoneos-arm64
 Description: Trollstore helper app
 Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.opa334.trollstorehelper_2.1.1_iphoneos-arm64.deb
+Size: 1920108
