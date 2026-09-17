@@ -1,6 +1,6 @@
 Package: com.searchglass-rootless
 Name: Search Glass
-Version: 1.0.8
+Version: 1.1.4
 Architecture: iphoneos-arm64
 Description: İos 27 arama çubuğu
 Maintainer: Pho012
@@ -21,7 +21,7 @@ Section: Tweaks
 Filename: com.opa334.trollstorehelper_2.1.1_iphoneos-arm64.deb
 Size: 1915740
 
-Package: com.liquidas-rootless
+Package: com.liquidglass-rootless
 Name: LiquidGlass
 Version: 0.1.1-2b
 Architecture: iphoneos-arm64
