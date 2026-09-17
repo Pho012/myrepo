@@ -90,3 +90,14 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.26anim_1.0.3_iphoneos-arm64e.deb
 Size: 58184
+
+Package: com.pho012.26cam-legacy
+Name: 26cam (legacy)
+Version: 0.0.3-beta
+Architecture: iphoneos-arm64
+Description: Liquid Glass to camera app
+Maintainers: Pho012 
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.26cam-legacy_0.0.3-beta_iphoneos-arm64.deb
+Size: 81448
