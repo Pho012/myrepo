@@ -33,7 +33,7 @@ Filename: com.pho012.liquidglass_0.1.3_iphoneos-arm64.deb
 Size: 3708564
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0150.jpeg
 
-Package: com.pho012.visibleisland-rootless
+Package: com.pho012.visibleisland
 Name: Visibleİsland
 Version: 2.1
 Architecture: iphoneos-arm64
