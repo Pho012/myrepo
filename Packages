@@ -45,3 +45,15 @@ Section: Tweaks
 Filename: com.pho012.visibleisland_2.0_iphoneos-arm64.deb
 Size: 28364
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0209.jpeg
+
+Package: com.pho012.liquiddynamicisland
+Name: Liquidİsland
+Version: 0.1.0.2
+Architecture: iphoneos-arm64
+Desciption: Liquid island
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.liquiddynamicisland_0.1.0.2_iphoneos-arm64.deb
+Size: 92992
+Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0211.jpeg
