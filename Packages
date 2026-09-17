@@ -1,6 +1,6 @@
 Package: com.searchglass-rootless
 Name: Search Glass
-Version: 1.2.5
+Version: 1.0.8
 Architecture: iphoneos-arm64
 Description: İos 27 arama çubuğu
 Maintainer: Pho012
@@ -12,7 +12,7 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0045.jpeg
 
 Package: com.opa334.trollstorehelper-rootless
 Name: TrollstoreHelper
-Version: 2.1.1
+Version: 2.1
 Architecture: iphoneos-arm64
 Description: Trollstore helper app
 Maintainer: Pho012
