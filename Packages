@@ -69,7 +69,7 @@ Section: Tweaks
 Filename: com.pho012.privacydisplay_1.0.0.4_iphoneos-arm64.deb
 Size:23436
 
-Package: com.pho012.akemiappsyncunified
+Package: com.pho012.akemi.appsyncunified
 Name: Appsyncunfied
 Version: 116.0
 Architecture: iphoneos-arm64
@@ -78,4 +78,4 @@ Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.pho012.akemi.appsyncunified_116.0_iphoneos-arm64.deb
-Size: 35832
+Size: 35560
