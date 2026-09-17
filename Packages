@@ -1,6 +1,6 @@
 Package: com.searchglass-rootless
 Name: Search Glass
-Version: 1.1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Description: İos 27 arama çubuğu
 Maintainer: Pho012
