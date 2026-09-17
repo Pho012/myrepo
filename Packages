@@ -72,23 +72,23 @@ Size:23436
 Package: com.pho012.26home
 Name: 26home
 Version: 1.1.7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Description: Homescreen Customizasion
 Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
-Filename: com.pho012.26home_1.1.7_iphoneos-arm64e.deb
+Filename: com.ngkhoi.26home_1.1.7_iphoneos-arm64e.deb
 Size: 20394420
 
 Package: com.pho012.26anim
 Name: 26Anim
 Version: 1.0.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Description: opening/closing effects
 Maintainers: Pho012
 Author: Pho012
 Section: Tweaks
-Filename: com.pho012.26anim_1.0.3_iphoneos-arm64.deb
+Filename: com.pho012.26anim_1.0.3_iphoneos-arm64e.deb
 Size: 58184
 
 Package: com.pho012.26cam-legacy
@@ -99,5 +99,5 @@ Description: Liquid Glass to camera app
 Maintainers: Pho012 
 Author: Pho012
 Section: Tweaks
-Filename: com.pho012.26home_1.1.7_iphoneos-arm64.deb
+Filename: com.pho012.26cam-legacy_0.0.3-beta_iphoneos-arm64.deb
 Size: 81448
