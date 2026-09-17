@@ -80,18 +80,6 @@ Section: Tweaks
 Filename: com.pho012.26home_1.1.7_iphoneos-arm64.deb
 Size: 20394420
 
-Package: com.pho012.26anim
-Name: 26Anim
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Description: opening/closing effects
-Maintainers: Pho012
-Author: Pho012
-Section: Tweaks
-Filename: com.pho012.26anim_1.0.3_iphoneos-arm64.deb
-Size: 54694
-Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0235.avif
-
 Package: com.pho012.26cam-legacy
 Name: 26cam (legacy)
 Version: 0.0.3-beta
