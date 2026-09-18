@@ -93,7 +93,7 @@ Size: 81448
 
 Package: com.pho012.ccaster
 Name: CCAster
-Version: 0.2.1
+Version: 0.0.2-1+ios17test1
 Architecture: iphoneos-arm64
 Description: You can customize the control center
 Maintainer: Pho012
@@ -104,6 +104,7 @@ Size: 387384
 Package: com.pho012.cc26
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0235.avif
 
+Package: com.pho012.cc26
 Name: CC26
 Version: 1.0.2
 Architecture: iphoneos-arm64
