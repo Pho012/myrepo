@@ -1,6 +1,6 @@
 Package: com.searchglass-rootless
 Name: SearchGlass
-Version: 2.0.4
+Version: 1.0.0
 Architecture: iphoneos-arm64
 Description: İos 27 arama çubuğu
 Maintainer: Pho012
@@ -12,7 +12,7 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0045.jpeg
 
 Package: com.opa334.trollstorehelper
 Name: TrollstoreHelper
-Version: 2.1
+Version: 2.1.1
 Architecture: iphoneos-arm64
 Description: Trollstore helper app
 Maintainer: Pho012
@@ -24,7 +24,7 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0210.png
 
 Package: com.pho012.liquidglass
 Name: LiquidGlass
-Version: 0.1.1.2-beta
+Version: 0.1.1-2b
 Architecture: iphoneos-arm64
 Description: Amazing effects
 Mainteiner: Pho012
@@ -60,7 +60,7 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0211.jpeg
 
 Package: com.pho012.privacydisplay
 Name: Privacy Display
-Version: 1.0.2
+Version: 1.0.0.4
 Architecture: iphoneos-arm64
 Description: 
 Maintainer: Pho012
@@ -82,7 +82,7 @@ Size: 20394420
 
 Package: com.pho012.26cam-legacy
 Name: 26cam (legacy)
-Version: 0.0.2-beta
+Version: 0.0.3-beta
 Architecture: iphoneos-arm64
 Description: Liquid Glass to camera app
 Maintainers: Pho012 
@@ -105,7 +105,7 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0235.avif
 
 Package: com.pho012.cc26
 Name: CC26
-Version: 1.0.3
+Version: 1.0.7
 Architecture: iphoneos-arm64
 Description: İos 26 control center for older phones
 Maintainer: Pho012
