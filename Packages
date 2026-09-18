@@ -101,12 +101,11 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.ccaster_0.0.2-1+ios17test1_iphoneos-arm64.deb
 Size: 387384
-Package: com.pho012.cc26
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0235.avif
 
 Package: com.pho012.cc26
 Name: CC26
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Description: İos 26 control center for older phones
 Maintainer: Pho012
