@@ -24,14 +24,14 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0210.png
 
 Package: com.pho012.liquidglass
 Name: LiquidGlass
-Version: 0.1.3
+Version: 0.1.1.2-beta
 Architecture: iphoneos-arm64
 Description: Amazing effects
 Mainteiner: Pho012
 Author: Pho012
 Section: Tweaks
-Filename: com.pho012.liquidglass_0.1.3_iphoneos-arm64.deb
-Size: 3708564
+Filename: com.pho012.liquidglass_0.1.1-2b_iphoneos-arm64.deb
+Size: 3710268
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0150.jpeg
 
 Package: com.pho012.visibleisland
