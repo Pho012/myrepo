@@ -90,3 +90,14 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.26cam-legacy_0.0.3-beta_iphoneos-arm64.deb
 Size: 81448
+
+Package: com.pho012.ccaster
+Name: CCAster
+Version: 0.0.2-1+ios17test1
+Architecture: iphoneos-arm64
+Description: You can customize the control center
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.ccaster_0.0.2-1+ios17test1_iphoneos-arm64.deb
+Size: 387384
