@@ -102,6 +102,7 @@ Section: Tweaks
 Filename: com.pho012.ccaster_0.0.2-1+ios17test1_iphoneos-arm64.deb
 Size: 387384
 Package: com.pho012.cc26
+Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0235.avif
 
 Name: CC26
 Version: 1.0.2
@@ -112,4 +113,4 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.cc26_1.0.7_iphoneos-arm64.deb
 Size: 832152
-Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0235.avif
+
