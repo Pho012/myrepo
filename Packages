@@ -22,7 +22,7 @@ Filename: com.opa334.trollstorehelper_2.1.1_iphoneos-arm64.deb
 Size: 1915740
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0210.png
 
-Package: com.pho012.liquidglass-rootless
+Package: com.pho012.liquidglas
 Name: LiquidGlass
 Version: 3.1.0-beta
 Architecture: iphoneos-arm64
@@ -34,7 +34,7 @@ Filename: com.pho012.liquidglass_0.1.3_iphoneos-arm64.deb
 Size: 3708564
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0150.jpeg
 
-Package: com.pho012.visibleisland
+Package: com.pho012.visibleisland-rootless
 Name: Visibleİsland
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -46,9 +46,9 @@ Filename: com.pho012.visibleisland_2.0_iphoneos-arm64.deb
 Size: 28364
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0209.jpeg
 
-Package: com.pho012.liquiddynamicisland
+Package: com.pho012.liquiddynamicisland-rootless
 Name: Liquidİsland
-Version: 0.1.0.2
+Version: 0.1.0
 Architecture: iphoneos-arm64
 Desciption: Liquid island
 Maintainer: Pho012
@@ -60,7 +60,7 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0211.jpeg
 
 Package: com.pho012.privacydisplay
 Name: Privacy Display
-Version: 1.0.0.4
+Version: 1.0.6
 Architecture: iphoneos-arm64
 Description: 
 Maintainer: Pho012
@@ -71,7 +71,7 @@ Size:23436
 
 Package: com.pho012.26home
 Name: 26home
-Version: 1.1.7
+Version: 1.0.9
 Architecture: iphoneos-arm64
 Description: Homescreen Customizasion
 Maintainer: Pho012
@@ -82,7 +82,7 @@ Size: 20394420
 
 Package: com.pho012.26cam-legacy
 Name: 26cam (legacy)
-Version: 0.0.3-beta
+Version: 0.3
 Architecture: iphoneos-arm64
 Description: Liquid Glass to camera app
 Maintainers: Pho012 
