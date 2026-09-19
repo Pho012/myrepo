@@ -102,3 +102,142 @@ Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
 Name: Zebra
 Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 
+Package: com.pho012.26cam-legacy
+Version: 0.0.3-beta
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho012.26cam-legacy_0.0.3-beta_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: 26cam legacy tweak for iOS.
+Name: 26cam Legacy
+
+Package: com.pho012.26home
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho012.26home_1.1.7_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: 26home tweak for iOS.
+Name: 26home
+
+Package: com.pho012.cc26
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho012.cc26_1.0.7_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: CC26 control center tweak.
+Name: CC26
+
+Package: com.pho012.ccaster
+Version: 0.0.2-1+ios17test1
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho012.ccaster_0.0.2-1+ios17test1_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: CCaster tweak.
+Name: CCaster
+
+Package: com.pho012.liquiddynamicisland
+Version: 0.1.0.2
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho012.liquiddynamicisland_0.1.0.2_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: Liquid Dynamic Island tweak.
+Name: Liquid Dynamic Island
+
+Package: com.pho012.liquidglass
+Version: 0.1.1-2b
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho012.liquidglass_0.1.1-2b_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: Liquid Glass tweak.
+Name: Liquid Glass
+
+Package: com.pho012.privacydisplay
+Version: 1.0.0.4
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho012.privacydisplay_1.0.0.4_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: Privacy Display tweak.
+Name: Privacy Display
+
+Package: com.pho012.visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho012.visibleisland_2.0_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: Visible Island tweak.
+Name: Visible Island
+
+Package: com.pho.26anim
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: pho012
+Depends: mobilesubstrate
+Filename: com.pho.26anim_1.0.3_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Description: 26anim tweak.
+Name: 26anim
+
+Package: com.opa334.trollstorehelper
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Depends: mobilesubstrate
+Filename: com.opa334.trollstorehelper_2.1.1_iphoneos-arm64.deb
+Size: 12345
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Utilities
+Description: TrollStore Helper.
+Name: TrollStore Helper
