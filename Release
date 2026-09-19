@@ -1,0 +1,8 @@
+Origin: Pho 
+Label: Pho 
+Suite: stable
+Version: 1.0
+Codename: ios-iphone
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Sileo Repository
