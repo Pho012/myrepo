@@ -24,7 +24,7 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0210.png
 
 Package: com.pho012.cc26
 Name: CC26
-Version: 1.0.7
+Version: 1.0.9
 Architecture: iphoneos-arm64
 Maintainer: Pho012
 Author: Pho012
