@@ -1,3 +1,9 @@
 Package: com.pho012.searchglass
 Name: SearchGlass
 Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: İos 27 arama çubuğu
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: 
