@@ -8,6 +8,7 @@ Author: Pho012
 Section: Tweaks
 Filename: com.searchglass-rootless_1.0.0_iphoneos-arm64.deb
 Size: 36007
+Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0045.jpeg
 
 Package: com.opa334.trollstorehelper
 Name: Trollstorehelper
