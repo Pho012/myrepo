@@ -1,4 +1,4 @@
-Package: com.pho012.searchglass
+Package: com.searchglass-rootless
 Name: SearchGlass
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -6,4 +6,5 @@ Description: İos 27 arama çubuğu
 Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
-Filename: 
+Filename: com.searchglass-rootless_1.0.0_iphoneos-arm64.deb
+Size: 36007
