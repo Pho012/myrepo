@@ -43,3 +43,14 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.26home_1.1.7_iphoneos-arm64.deb
 Size: 20396283
+
+Package: com.pho012.privacydisplay
+Name: PrivacyDisplay
+Version: 1.0.0.4
+Architecture: iphoneos-arm64
+Description: You have advenced future
+Maintainer: Pho012
+Author: Pho012
+Section:Tweaks
+Filename: com.pho012.privacydisplay_1.0.0.4_iphoneos-arm64.deb
+Size: 23436
