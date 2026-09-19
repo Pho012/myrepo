@@ -7,3 +7,6 @@ Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Sileo Repository
 Signed-By: Release.key
+No-Support-for-Architecture: iphoneos-arm
+NotAutomatic: yes
+ButAutomaticUpgrades: yes
