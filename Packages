@@ -26,8 +26,20 @@ Package: com.pho012.cc26
 Name: CC26
 Version: 1.0.9
 Architecture: iphoneos-arm64
+Description: İos 26 control center
 Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.pho012.cc26_1.0.7_iphoneos-arm64.deb
 Size: 832032
+
+Package: com.pho012.26home
+Name: 26Home
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Description: customize the home screen
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.26home_1.1.7_iphoneos-arm64.deb
+Size: 20396283
