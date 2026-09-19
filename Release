@@ -10,3 +10,4 @@ Signed-By: Release.key
 No-Support-for-Architecture: iphoneos-arm
 NotAutomatic: yes
 ButAutomaticUpgrades: yes
+Acquire-By-Hash: yes
