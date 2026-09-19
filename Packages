@@ -55,7 +55,7 @@ Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.pho012.liquiddynamicisland_0.1.0.2_iphoneos-arm64.deb
-Size: 92992
+Size: 92800
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0211.jpeg
 
 Package: com.pho012.privacydisplay
@@ -78,7 +78,7 @@ Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.pho012.26home_1.1.7_iphoneos-arm64.deb
-Size: 20394420
+Size: 20396284
 
 Package: com.pho012.26cam-legacy
 Name: 26cam (legacy)
@@ -112,4 +112,4 @@ Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.pho012.cc26_1.0.7_iphoneos-arm64.deb
-Size: 832152
+Size: 832164
