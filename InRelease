@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Pho
+Label: Pho
+Suite: stable
+Version: 1.0
+Codename: ios-iphone
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Sileo Repository
+Signed-By: Release.key
+Signed-By: Release.key
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEuWfaDYLtDg26+2IgOdkANN7LW+cFAmqvhsoACgkQOdkANN7L
+W+d3zAwAjGWlxNqasPIYDtk0ZWQGRYO5GAe0FvQX4CvzOLD/2jl6ESfbPxHkfDwN
+eIJcJhbRrjk1vrcle1KBm9Syq1C86zvaQMPkfC5UgIknyHIo+eMpBpQxlhu+LaRE
+QqCreLIu9dJJv5K7OvJilrJInBf3aWRwVTnva4czS2w/jQOuk5NqgbmCKaFFT1dR
+5GLbhBXybOO6IMDGNDM5EPSv4e66L6zlGhuXO8WHJf4GHUgl6nBoa5wxsVZWoBJ4
+23W0kUdKkPtrE+0PPsqSZe3fSTd6GtddpKckXi1l+xmEP7mAMcjc1ZjJwQiKaCb3
+5a+htRbZ/ra9xGz8TYD884AOSRRNJ9jCWsQPZiV5KSb1RjOKSB0yvdPVpAp7NAaK
+LfrULagsSaP/vfzVfACDtAPqsvugtXxRvkUiyTKXH9dL2quQxuho+gY8DBX0pyNu
+66pKRL2d9gINvzBiG8jq2ktzzt3HRANA762VZKVYrTHR8ahYYwnmzrdDlMP8AcVT
+BwOFqigx
+=Oyll
+-----END PGP SIGNATURE-----
