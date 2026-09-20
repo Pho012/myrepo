@@ -81,7 +81,7 @@ Size: 81448
 
 Package: com.pho012.visibleisland
 Name: Visibleİsland
-Version: 
+Version: 2.0
 Architecture: iphoneos-arm64
 Description: Dynamic İsland
 Maintainer: Pho012
@@ -89,3 +89,14 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.visibleisland_2.0_iphoneos-arm64.deb
 Size: 28364
+
+Package: com.pho012.colorfulwallpaper
+Name: ColorfulWallpaperX
+Version: 5.8.1
+Architecture: iphoneos-arm64
+Description: Colorful wallpapers
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.colorfulwallpaperx_5.8.1_iphoneos-arm64.deb
+Size: 1476124
