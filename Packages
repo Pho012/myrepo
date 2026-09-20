@@ -69,7 +69,7 @@ Size: 3710244
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0150.jpeg
 
 Package: com.pho012.xgesture
-Name: X gesture
+Name: XGesture
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Descriprion: x gestures for old phones
