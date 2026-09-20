@@ -78,3 +78,14 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.26cam-legacy_0.0.3-beta_iphoneos-arm64.deb
 Size: 81448
+
+Package: com.pho012.visibleisland
+Name: Visibleİsland
+Version: 
+Architecture: iphoneos-arm64
+Description: Dynamic İsland
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.visibleisland_2.0_iphoneos-arm64.deb
+Size: 28364
