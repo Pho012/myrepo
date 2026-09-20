@@ -68,13 +68,13 @@ Filename: com.pho012.liquidglass_0.1.1-2b_iphoneos-arm64.deb
 Size: 3710244
 Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0150.jpeg
 
-Package: com.pho012.xgesture
-Name: XGesture
-Version: 0.0.1
+Package: com.pho012.26cam-legacy
+Name: 26cam(legacy)
+Version: 0.0.3-beta
 Architecture: iphoneos-arm64
-Descriprion: x gestures for old phones
+Descriprion: liquid glass to camera app 
 Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
-Filename: com.pho012.xgesture_0.0.1_iphoneos-arm64.deb
-Size: 6080
+Filename: com.pho012.26cam-legacy_0.0.3-beta_iphoneos-arm64.deb
+Size: 81448
