@@ -104,7 +104,7 @@ Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0753.jpeg
 
 Package: com.pho012.novaisland.dynamicisland
 Name: Novaİsland
-Version: 1.0.0
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Descripton: New Novaisland
 Maintainer: Pho012
@@ -112,3 +112,4 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.novaisland.dynamicisland_1.0.0_iphoneos-arm64.deb
 Size: 19020
+Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0209.jpeg
