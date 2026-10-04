@@ -157,14 +157,14 @@ SHA1: d69a9f4bfc4c7815a4c03fd9c140049039abb5fd
 SHA256: b2f65e12d85868ab9a2ff05e6d3d795eec51119a4d96d8e49f4586ba3c228baa
 
 Package: com.jtis.little12
-Name: Little12
+Name: Little12(rootless)
 Version: 1.2.3
 Architecture: iphoneos-arm64
 Description: İphone X gestures
 Maintainer: JTİSVN Repo
 Author: Ryan Nair
 Section: Tweaks
-Filename: com.pho012.little12_1.2.3._iphoneos-arm64.deb
+Filename: com.jtis.little12_1.2.3_iphoneos-arm64.deb
 Size: 226880
 MD5: b913d423bb65dac64e4532e200be10ec
 SHA1: ec8ec6aae1ff50efb501b2b63759cced43839b0e
