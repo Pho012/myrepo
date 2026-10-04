@@ -11,7 +11,7 @@ Size: 14684
 MD5: 039829c7aed51d1d40ac07842b591945
 SHA1: bbcd702e7aa2a196251b9e3e75390b7b6e42a104
 SHA256: 0e939c2ad025278a14daa6277f8c8f8a95d3f7aa3510fd16fa9f41e185bcf7f5
-Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0045.jpeg
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0045.jpeg
 
 Package: com.opa334.trollstorehelper
 Name: Trollstorehelper
@@ -26,7 +26,7 @@ Size: 1915740
 MD5: 9119ca4ad6f9b355904af50db5b40d0c
 SHA1: 48a486a1748419041bb2d67371ad03290ec9fe51
 SHA256: 4f013243d0ae06c49323c2bead2bd4193bc04019c10749b9606a324d5d06b378
-Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0210.png
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0210.png
 
 Package: com.pho012.cc26
 Name: CC26
@@ -41,7 +41,7 @@ Size: 832032
 MD5: 8fb10bb54d94a1a9d6c6adb39a5759f1
 SHA1: 89a4cbbb6c6bcb676403192cb69f8b07698a9b0f
 SHA256: 5ffc0386816fa6a87618ef602b67e2a990e3cab23b59f14d406efb95e8bc06e7
-Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0235.avif
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0235.avif
 
 Package: com.pho012.26home
 Name: 26Home
@@ -70,21 +70,6 @@ Size: 23436
 MD5: 5db4cdffdc77e8a6cef1287ef31a68e2
 SHA1: 5c574e912788941799f7b19d3707806b6c29ac0f
 SHA256: 58ce891e5962061608ba404c101e08c628e78dd25e9080545b76963111bd3e4d
-
-Package: com.pho012.liquidglass
-Name: LiquidGlass
-Version: 0.0.1-2b
-Architecture: iphoneos-arm64
-Description: Amazing Effects
-Maintainer: Pho012
-Author: Pho012
-Section: Tweaks
-Filename: com.pho012.liquidglass_0.1.1-2b_iphoneos-arm64.deb
-Size: 3710244
-MD5: 394e941b01941a0f45003e0fddeb29a0
-SHA1: 5f993ac35ac9ca50c5ca172945de8f56b16303ea
-SHA256: ef97f2718d9838e3c5487ad7f54f402e313a2b4225044776e981bf51a79e4297
-Icon: https://raw.githubusercontent.com/Pho012/myrepo/main/IMG_0150.jpeg
 
 Package: com.pho012.visibleisland
 Name: Visibleİsland
@@ -127,6 +112,7 @@ Size: 92800
 MD5: e3661c633233fdd55b4e3b9ba0e72ec0
 SHA1: f10c97a5f252f5cfa30615b86b0ddd5162b4e13b
 SHA256: 1bab0852e5d7a6dfec5c916fbbf98844227dd89dfe716640fb3dda6e62382574
+İcon: Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0211.jpeg
 
 Package: com.bvn.replyactions
 Name: Reply Actions VH (Rootless)
