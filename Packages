@@ -67,9 +67,9 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.privacydisplay_1.0.0.4_iphoneos-arm64.deb
 Size: 23436
-MD5sum:
-SHA1: 
-SHA256: 
+MD5sum: 5db4cdffdc77e8a6cef1287ef31a68e2
+SHA1: 5c574e912788941799f7b19d3707806b6c29ac0f
+SHA256: 58ce891e5962061608ba404c101e08c628e78dd25e9080545b76963111bd3e4d
 
 Package: com.pho012.liquidglass
 Name: LiquidGlass
