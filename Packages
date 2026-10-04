@@ -139,5 +139,33 @@ Section: Tweaks
 Filename: com.bvn.replyactions_2.0.0_iphoneos-arm64.deb
 Size: 161652
 MD5: d4f6c54c023bf5442893f5fbacbf2fdf
-SH1: c021dd2a72d1bbae5a62baea8cf03719270a0f96
+SHA1: c021dd2a72d1bbae5a62baea8cf03719270a0f96
 SHA256: 33bee03d92ebcfd4b9a679b1cc90a192f7b8d7df9597da0458c16d28f0e50b89
+
+Package: com.pho012.stella
+Name: Stella
+Version: 1.1.5
+Architecture: iphoneos-arm64 
+Description: snow 
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.stella_1.1.5_iphoneos-arm64.deb
+Size:361576
+MD5: d14969e36f0a8cf016f5a161fd5b1c3d
+SHA1: a5e0d2877f6411ed17698bbdb1ebc1ec52bcb6a3
+SHA256: a4508b215eda175168ca86676efe22fa5e1fb7ac74a5d91aae8309eb1163eaef
+
+Package: com.pho012.little12
+Name: Little12
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Description: İphone X gestures
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.pho012.little12_1.2.3._iphoneos-arm64.deb
+Size: 226932
+MD5: 4655a2e91548a260918533b192d089ed
+SHA1: 0298f4088d1cef8bd02205ebedc9f5f4732192c9
+SHA256: 1e5ae20cd503a29be187e4b19fb9b4eb22ca5ea4ad66a10f82e1dfcff7434a34
