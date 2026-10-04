@@ -151,9 +151,10 @@ Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.pho012.stella_1.1.5_iphoneos-arm64.deb
-Size:361576
-MD5: d14969e36f0a8cf016f5a161fd5b1c3d
-SHA1: a5e0d2877f6411ed17698bbdb1ebc1ec52bcb6a3
+Size: 349748
+MD5: f8738a50b3b083651e7cbb9164141a2b
+SHA1: d69a9f4bfc4c7815a4c03fd9c140049039abb5fd
+SHA256: b2f65e12d85868ab9a2ff05e6d3d795eec51119a4d96d8e49f4586ba3c228baa
 
 Package: com.jtis.little12
 Name: Little12
