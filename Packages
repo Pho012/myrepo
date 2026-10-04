@@ -127,6 +127,7 @@ Size: 161652
 MD5: d4f6c54c023bf5442893f5fbacbf2fdf
 SHA1: c021dd2a72d1bbae5a62baea8cf03719270a0f96
 SHA256: 33bee03d92ebcfd4b9a679b1cc90a192f7b8d7df9597da0458c16d28f0e50b89
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0726.jpeg
 
 Package: com.pho012.dynamicpeninsula-rootless
 Name: DynamicPeninsula
