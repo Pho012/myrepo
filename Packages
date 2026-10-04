@@ -58,7 +58,7 @@ SHA1: 7f0ba8aeecb8eefdfc47f2a45cbaa7b0da6f6d68
 SHA256: b80a8bf505467d0fe50e37115a3e01a4837ac9aa5d40f5721a7dd10fc791cedc
 
 Package: com.pho012.privacydisplay
-Name: PrivacyDisplay
+Name: Privacy Display
 Version: 1.0.0.4
 Architecture: iphoneos-arm64
 Description: You have advenced future
@@ -67,7 +67,7 @@ Author: Pho012
 Section: Tweaks
 Filename: com.pho012.privacydisplay_1.0.0.4_iphoneos-arm64.deb
 Size: 23436
-MD5sum: 5db4cdffdc77e8a6cef1287ef31a68e2
+MD5: 5db4cdffdc77e8a6cef1287ef31a68e2
 SHA1: 5c574e912788941799f7b19d3707806b6c29ac0f
 SHA256: 58ce891e5962061608ba404c101e08c628e78dd25e9080545b76963111bd3e4d
 
