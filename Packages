@@ -169,3 +169,23 @@ Size: 226880
 MD5: b913d423bb65dac64e4532e200be10ec
 SHA1: ec8ec6aae1ff50efb501b2b63759cced43839b0e
 SHA256: 90b89fe9226596cd6f5a71f4d69eab027a897a90d34816e88c9ad1a84ea14d22
+
+Package: com.pho012.squidgesturepro.rl
+Name: SquidGesturePro
+Version: 2.7.6K
+Architecture: iphoneos-arm64
+Description: Gestures
+Maintainer: Pho012
+Autuor: Pho012
+Section: Tweaks
+Filename: com.pho012.squidgesturepro.rl_2.7.6K_iphoneos-arm64.deb
+
+Package: com.pho012.faceidx
+Name: Faceİdx
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Description: Fast on-device face unlock and biometric authentication for jailbroken iOS 15+
+Maintainer: Bvn
+Author: Bvn
+Section: Tweaks
+Filename: com.pho012.faceidx.1.0.4_iphoneos-arm64.deb
