@@ -179,6 +179,10 @@ Maintainer: Pho012
 Autuor: Pho012
 Section: Tweaks
 Filename: com.pho012.squidgesturepro.rl_2.7.6K_iphoneos-arm64.deb
+Size: 1772024
+MD5: 8d63511dcc117a073dea6219bb37e294
+SHA1: aaf524e2cc596a4b48a2e63beeb069d1cd01834c
+SHA256: e15329f3dc9e320e56704b004909cf2a8d268c7dd872bdf27728e7f1fef0c0e8
 
 Package: com.pho012.faceidx
 Name: Faceİdx
@@ -189,3 +193,7 @@ Maintainer: Bvn
 Author: Bvn
 Section: Tweaks
 Filename: com.pho012.faceidx.1.0.4_iphoneos-arm64.deb
+Size: 6351172
+MD5: 084ab91fd6d936b4ab5ccb6e9f9b7d1e
+SHA1: eed085e6a61c72d6879be00c383317fbcf1d4105
+SHA256: 848cdd85497b0581ce055be9bbee056d60112340506fde5732eb622faa9d139e
