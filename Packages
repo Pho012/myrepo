@@ -13,7 +13,7 @@ SHA1: bbcd702e7aa2a196251b9e3e75390b7b6e42a104
 SHA256: 0e939c2ad025278a14daa6277f8c8f8a95d3f7aa3510fd16fa9f41e185bcf7f5
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0045.jpeg
 
-Package: com.searchglass-rootless_1.0.4_iphoneos-arm64.deb
+Package: com.searchglass-rootless
 Name: SearchGlass
 Version: 1.0.4
 Architecture: iphoneos-arm64
