@@ -7,10 +7,10 @@ Maintainer: Pho012
 Author: Pho012
 Section: Tweaks
 Filename: com.searchglass-rootless_1.0.0_iphoneos-arm64.deb
-Size: 36007
-MD5: 039829c7aed51d1d40ac07842b591945
-SHA1: bbcd702e7aa2a196251b9e3e75390b7b6e42a104
-SHA256: 0e939c2ad025278a14daa6277f8c8f8a95d3f7aa3510fd16fa9f41e185bcf7f5
+Size: 14684
+MD5: 8c19a7b260509b5c70b4434ee5c65cf5
+SHA1: 166476920c0375f757b347b02ba50e693ed0c1e4
+SHA256: b727ac4881954f4504d8a9a75fb2106e11f406dd4ccf2a3dddb732c6dabc2871
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0045.jpeg
 
 Package: com.searchglass-rootless
