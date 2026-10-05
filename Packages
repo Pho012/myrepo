@@ -215,3 +215,18 @@ Size: 4892
 MD5: 5390f590878243dd239004e7b1d4d31a
 SHA1: 5246f9d68065817fa1959deaf44d6d0d7ddf31ae
 SHA256: d309ca1bbcf7fef14a2912f74c81a866913221286636d6884ba35d9ce0a9df13
+
+Package: com.jtis.cc18
+Name: CC18
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Description: İos 18 Control Center to old phones
+Maintainer: jtis
+Author: jtis
+Section: Tweaks
+Filename: com.jtis.cc18_0.0.3_iphoneos-arm64.deb
+Size: 4648
+MD5: 5e8b8a35e943941e9e3e4a06afccbc0a
+SHA1: a7d53edf6dda4cbd2c935ded4e628713223ec121
+SHA256: 0ccb15fa7c4b28ff28f7d670c2234d4fc31395dc039d75c08a596f386841c702
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0729.jpeg
