@@ -130,7 +130,7 @@ SHA256: 1bab0852e5d7a6dfec5c916fbbf98844227dd89dfe716640fb3dda6e62382574
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0211.jpeg
 
 Package: com.bvn.replyactions
-Name: Reply Actions VH (Rootless)
+Name: ReplyActions VH (Rootless)
 Version: 2.0
 Architecture: iphoneos-arm64
 Description: Great Effects
