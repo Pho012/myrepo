@@ -1,18 +1,22 @@
 {
   "minVersion": "0.1",
+  "headerImage": "https://raw.githubusercontent.com/Pho012/repo/main/IMG_0745.jpeg",
   "tabs": [
     {
       "tabname": "Detaylar",
       "views": [
         {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fast on-device face unlock and biometric authentication for jailbroken iOS 15+"
+        },
+        {
           "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 10,
-          "itemSize": "{160, 320}",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 284}",
           "screenshots": [
             {
-              "accessibilityText": "Screenshot",
+              "accessibilityText": "Screenshot 1",
               "url": "https://raw.githubusercontent.com/Pho012/repo/main/IMG_0745.jpeg"
-"
             }
           ]
         }
