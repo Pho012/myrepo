@@ -1,0 +1,21 @@
+{
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "tabname": "Detaylar",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 10,
+          "itemSize": "{160, 320}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://pho012.github.io/repo/IMG_0745.jpeg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
