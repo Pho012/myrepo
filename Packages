@@ -201,3 +201,17 @@ MD5: 2a957d03947dd848430cf48565a8393c
 SHA1: f5522e6b3b90651349e71898f552e5a26754200a
 SHA256: 21596bcc4cbfdebd037c0fea96cb6e12472869a063eca994fd5faa5d6f064c80
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0728.jpeg
+
+Package: com.icraze.gestures15
+Name: Gesture15
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: X Gestures for older devices
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.icraze.gestures15_1.0_iphoneos-arm64.deb
+Size: 4892
+MD5: 5390f590878243dd239004e7b1d4d31a
+SHA1: 5246f9d68065817fa1959deaf44d6d0d7ddf31ae
+SHA256: d309ca1bbcf7fef14a2912f74c81a866913221286636d6884ba35d9ce0a9df13
