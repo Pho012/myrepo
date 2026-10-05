@@ -13,6 +13,21 @@ SHA1: bbcd702e7aa2a196251b9e3e75390b7b6e42a104
 SHA256: 0e939c2ad025278a14daa6277f8c8f8a95d3f7aa3510fd16fa9f41e185bcf7f5
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0045.jpeg
 
+Package: com.searchglass-rootless_1.0.4_iphoneos-arm64.deb
+Name: SearchGlass
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Description: added new controls
+Maintainer: Pho012
+Author: Pho012
+Section: Tweaks
+Filename: com.searchglass-rootless_1.0.4_iphoneos-arm64.deb
+Size: 15244
+MD5: bbdafd6202cdd31cc7c0f0e9daa9d92f
+SHA1: 41f424ac7aabde433c0fcdb6d34dc45769ba663c
+SHA256: 4f435025d172896dda0e7462b351bd025a8c7f2643098004f7c0a7cb0bdac2db
+Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0045.jpeg
+
 Package: com.opa334.trollstorehelper
 Name: Trollstorehelper
 Version: 2.1.1
