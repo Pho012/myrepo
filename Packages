@@ -102,7 +102,7 @@ SHA256: c41f18bc8a5a3dd7f4cc03c5f8154fd903995e3a054fae1968d7bce86528b7b1
 
 Package: com.pho012.dynamicisland
 Name: Dynamicİsland
-Version: 2.5.0
+Version: 2.5.0.1
 Architecture: iphoneos-arm64
 Description: ios 16.7.16 dynamic island
 Maintainer: Pho012
@@ -201,7 +201,7 @@ MD5: 084ab91fd6d936b4ab5ccb6e9f9b7d1e
 SHA1: eed085e6a61c72d6879be00c383317fbcf1d4105
 SHA256: 848cdd85497b0581ce055be9bbee056d60112340506fde5732eb622faa9d139e
 Icon: https://raw.githubusercontent.com/Pho012/repo/main/IMG_0723.jpeg
-SileoDepiction: https://raw.githubusercontent.com/Pho012/repo/main/depiction.json
+Depiction: https://raw.githubusercontent.com/Pho012/repo/main/depiction.json
 
 Package: com.tomaszpoliszuk.lockscreenbatterymagsafe
 Name: MagSafe Enabler (rootless)
